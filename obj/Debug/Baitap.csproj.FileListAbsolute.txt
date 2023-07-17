@@ -1,0 +1,13 @@
+D:\C#\Baitap\bin\Debug\Baitap.exe.config
+D:\C#\Baitap\bin\Debug\Baitap.exe
+D:\C#\Baitap\bin\Debug\Baitap.pdb
+D:\C#\Baitap\obj\Debug\Baitap.Form1.resources
+D:\C#\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+D:\C#\Baitap\obj\Debug\Baitap.csproj.GenerateResource.Cache
+D:\C#\Baitap\obj\Debug\Baitap.exe
+D:\C#\Baitap\obj\Debug\Baitap.pdb
+D:\C#\Baitap\obj\Debug\Baitap.Form2.resources
+D:\C#\Baitap\obj\Debug\Baitap.Form3.resources
+D:\C#\Baitap\obj\Debug\Baitap.csprojResolveAssemblyReference.cache
+D:\C#\Baitap\obj\Debug\Baitap.Form4.resources
+D:\C#\Baitap\obj\Debug\Baitap.Form5.resources
